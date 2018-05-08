@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel tests" duration-ms="9604" started-at="2018-05-08T09:09:48Z" finished-at="2018-05-08T09:09:58Z">
+    <groups>
+    </groups>
+    <test name="Test One" duration-ms="9604" started-at="2018-05-08T09:09:48Z" finished-at="2018-05-08T09:09:58Z">
+      <class name="testPage.WebPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testPage.WebPageTest@7a0ac6e3]" name="setup" is-config="true" duration-ms="3036" started-at="2018-05-08T14:39:48Z" finished-at="2018-05-08T14:39:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:testPage.WebPageTest@7a0ac6e3]" name="test" duration-ms="842" started-at="2018-05-08T14:39:51Z" finished-at="2018-05-08T14:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:testPage.WebPageTest@7a0ac6e3]" name="closeTest" is-config="true" duration-ms="5711" started-at="2018-05-08T14:39:52Z" finished-at="2018-05-08T14:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- testPage.WebPageTest -->
+    </test> <!-- Test One -->
+  </suite> <!-- Parallel tests -->
+</testng-results>

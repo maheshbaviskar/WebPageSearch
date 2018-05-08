@@ -1,0 +1,7 @@
+<suite name="CucumberTest" verbose="1">
+  <test name="CucumberTest">
+    <classes>
+      <class name="testPage.BDD_Runner" />
+    </classes>
+  </test>
+</suite>
